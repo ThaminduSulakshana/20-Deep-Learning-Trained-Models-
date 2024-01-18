@@ -2,7 +2,7 @@
 This collection of notebooks provides hands-on examples and demonstrations for various deep learning use cases. These examples are designed to help you learn and experiment with different aspects of deep learning.
 
 ## Table of Contents
-
+[01_Sentiment_Analysis](./01_sentiment_analysis.ipynb)
 1. [01_sentiment analysis](./01_sentiment analysis.ipynb)
 2. [02_Text Classification with LSTM](./01_sentiment analysis.ipynb)
 3. [03_Image Classification with CNN](./03_object_detection_with_yolo.ipynb)
