@@ -3,7 +3,7 @@ This collection of notebooks provides hands-on examples and demonstrations for v
 
 ## Table of Contents
 
-1. [01_sentiment analysis](./01_image_classification_with_cnns.ipynb)
+1. [01_sentiment analysis](./01_sentiment analysis.ipynb)
 2. [02_Text Classification with LSTM](./02_text_classification_with_lstm.ipynb)
 3. [03_Image Classification with CNN](./03_object_detection_with_yolo.ipynb)
 4. [04_Object Detection with YOLO](./04_transfer_learning_with_pretrained_models.ipynb)
