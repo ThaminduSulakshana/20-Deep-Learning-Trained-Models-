@@ -1,6 +1,11 @@
 # 10-Deep-Learning-Example-Trained-Models-
 This collection of notebooks provides hands-on examples and demonstrations for various deep learning use cases. These examples are designed to help you learn and experiment with different aspects of deep learning.
 
+
+ [Week 2 - PA 1 - Python Basics with Numpy](01_sentiment analysis.ipynb)
+
+
+
 ## Table of Contents
 [01_Sentiment_Analysis](./01_sentiment analysis.ipynb)
 1. [01_sentiment analysis](./01_sentiment analysis.ipynb)
