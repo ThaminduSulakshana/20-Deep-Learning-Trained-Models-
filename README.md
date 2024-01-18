@@ -3,11 +3,11 @@ This collection of notebooks provides hands-on examples and demonstrations for v
 
 ## Table of Contents
 
-1. [Image Classification with CNNs](./01_image_classification_with_cnns.ipynb)
-2. [Text Classification with LSTM](./02_text_classification_with_lstm.ipynb)
-3. [Object Detection with YOLO](./03_object_detection_with_yolo.ipynb)
-4. [Transfer Learning with Pre-trained Models](./04_transfer_learning_with_pretrained_models.ipynb)
-5. [Generative Adversarial Networks (GANs)](./05_gans.ipynb)
+1. [01_sentiment analysis](./01_image_classification_with_cnns.ipynb)
+2. [02_Text Classification with LSTM](./02_text_classification_with_lstm.ipynb)
+3. [03_Image Classification with CNN](./03_object_detection_with_yolo.ipynb)
+4. [04_Object Detection with YOLO](./04_transfer_learning_with_pretrained_models.ipynb)
+5. [05_Image Classification using VGG-16](./05_gans.ipynb)
 6. [Recurrent Neural Networks (RNNs) for Time Series Prediction](./06_rnn_time_series_prediction.ipynb)
 7. [Sentiment Analysis with BERT](./07_sentiment_analysis_with_bert.ipynb)
 8. [Neural Style Transfer](./08_neural_style_transfer.ipynb)
