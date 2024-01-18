@@ -1,14 +1,9 @@
 # 10-Deep-Learning-Example-Trained-Models-
 This collection of notebooks provides hands-on examples and demonstrations for various deep learning use cases. These examples are designed to help you learn and experiment with different aspects of deep learning.
 
-
- [Week 2 - PA 1 - Python Basics with Numpy](https://github.com/ThaminduSulakshana/10-Deep-Learning-Example-Trained-Models-/blob/928a86b646788fb1d00cc86ce0ad812aa48e9040/01_sentiment%20analysis.ipynb)
-
-
-
 ## Table of Contents
-[01_Sentiment_Analysis](./01_sentiment analysis.ipynb)
-1. [01_sentiment analysis](./01_sentiment analysis.ipynb)
+
+1. [01_sentiment analysis](https://github.com/ThaminduSulakshana/10-Deep-Learning-Example-Trained-Models-/blob/928a86b646788fb1d00cc86ce0ad812aa48e9040/01_sentiment%20analysis.ipynb)
 2. [02_Text Classification with LSTM](./01_sentiment analysis.ipynb)
 3. [03_Image Classification with CNN](./03_object_detection_with_yolo.ipynb)
 4. [04_Object Detection with YOLO](./04_transfer_learning_with_pretrained_models.ipynb)
