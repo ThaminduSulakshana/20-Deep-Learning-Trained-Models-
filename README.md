@@ -2,7 +2,7 @@
 This collection of notebooks provides hands-on examples and demonstrations for various deep learning use cases. These examples are designed to help you learn and experiment with different aspects of deep learning.
 
 
- [Week 2 - PA 1 - Python Basics with Numpy](01_sentiment analysis.ipynb)
+ [Week 2 - PA 1 - Python Basics with Numpy](https://github.com/ThaminduSulakshana/10-Deep-Learning-Example-Trained-Models-/blob/928a86b646788fb1d00cc86ce0ad812aa48e9040/01_sentiment%20analysis.ipynb)
 
 
 
