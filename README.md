@@ -35,5 +35,5 @@ This collection of notebooks provides hands-on examples and demonstrations for v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/thamindusulakshana/10-Deep-Learning-Example-Trained-Models-.git
+   git clone https://github.com/thamindusulakshana/20-Deep-Learning-Trained-Models-.git
    cd deep-learning-tutorials
