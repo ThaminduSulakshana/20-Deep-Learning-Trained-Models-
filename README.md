@@ -3,8 +3,8 @@ This collection of notebooks provides hands-on examples and demonstrations for v
 
 ## Table of Contents
 
-1. [01_sentiment analysis](https://github.com/ThaminduSulakshana/10-Deep-Learning-Example-Trained-Models-/blob/928a86b646788fb1d00cc86ce0ad812aa48e9040/01_sentiment%20analysis.ipynb)
-2. [02_Text Classification with LSTM](./01_sentiment analysis.ipynb)
+- [01_sentiment analysis](https://github.com/ThaminduSulakshana/10-Deep-Learning-Example-Trained-Models-/blob/928a86b646788fb1d00cc86ce0ad812aa48e9040/01_sentiment%20analysis.ipynb)
+- [02_Text Classification with LSTM](./01_sentiment analysis.ipynb)
 3. [03_Image Classification with CNN](./03_object_detection_with_yolo.ipynb)
 4. [04_Object Detection with YOLO](./04_transfer_learning_with_pretrained_models.ipynb)
 5. [05_Image Classification using VGG-16](./05_gans.ipynb)
