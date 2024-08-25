@@ -30,10 +30,7 @@ This collection of notebooks provides hands-on examples and demonstrations for v
 - Jupyter Notebook
 - Google Colab account (for running notebooks in the cloud)
 
-### Usage
+## License
 
-1. Clone the repository:
+[MIT License](License)
 
-   ```bash
-   git clone https://github.com/thamindusulakshana/20-Deep-Learning-Trained-Models-.git
-   cd deep-learning-tutorials
